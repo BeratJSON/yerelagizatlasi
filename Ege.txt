@@ -1,0 +1,160 @@
+Aydın
+ 1.Biti: Mektup
+ 2.Geceguşu: Yarasa
+ 3.Gezekçi: Sığır çobanı
+ 4.Göğer: Tohumluk küçük soğan, arpacık soğanı
+ 5.İşkillenmek: Alınmak, içerlemek
+ 6.Ödek: Korkak
+ 7.Pelik: Çınar, meşe vb. ağaçların meyvesi, pelit
+ 8.Tosmuk: Tarladaki ot ya da kamış kökü yığını
+ 9.Aha: İşte orada, hemen şurada, bu
+ 10.Abbacık. Bembeyaz
+ 11.Alaca belece: Çok renkli, karışık renkli
+ 12.Alaf: Alev
+ 13.Amıt: Armut
+ 14.Apışmak: Oturmak, bacakları ayırarak çömelmemek
+ 15.Anız: Ekinin biçildikten sonra tarlada kalan köklü sap kısmı
+ 16.Aralamak: Bitkilerin fazla dal ve çubuklarını kesmek, seyrekleştirmek, budamak
+ 17.Hindi: Şimdi
+ 18.Domat: Domates
+ 19.Aykırlamak: Kestirmeden gitmek, düz yoldan ayrılmak
+ 20.Aba: Abla, büyük kız kardeş
+ 21.Ardınmak: Palto, pelerin, çuval, heybe gibi şeyleri sırta, omuza almak
+ 22.Arıtmak: Temizlemek
+ 23.Asınmak. Takınmak
+ 24.Avdırmak: Aşağı inmek, yük veya terazide denge bozularak bir yanı ağır gelmek.
+ 25.Ayıngeç: Zakkum ağacı,
+ 26.Azmak: Bataklı, azlık, büyük su birikintisi
+ 27.Abo: Şaşırma ve korku ünlemi
+ 28.Akren: Yaşıt, denk, akran
+ 29.Altalamak. Yenmek, sindirmek
+ 30.Açcıktan: Biraz sonra, birazdan
+ 31.Amsalak: Şaşkın, budala, ahmak alık, pısırık
+ 32.Başak: Tahıl ve meyveleri devşirdikten sonra geriye kalan döküntüler
+ 33.Biyo: Bir kere
+ 34.Bölce: Börülce
+ 35.Çapıt: Eski bez parçası
+ 36.Carcur: Geveze, dedikoducu
+ 37.Çakaloz: İşe yaramaz, beceriksiz (kimse)
+ 38.Dalgan: Isırgan otu
+ 39.Demşek: Hafif meşrep, şakacı, haşarı, laubali hareketleri olan (kimse)
+ 40.Dolu: 12 kg buğday alan bir tahıl ölçeği
+
+İzmir
+ 1.Aba: Çoban, deveci ve göçebelerin giydiği uzun, yakasız üstlük, kepenek
+ 2.Berkitemek: Kapatmak, tıkamak, örtmek
+ 3.Biti: Mektup
+ 4.Bulak: Kaynak
+ 5.Çalağan: Isırgan otu
+ 6.Çeke: Sıkı, gergin
+ 7.Çevrek: Genel
+ 8.Çıvdırmak: Delirmek
+ 9.Çileşmek: Yağmur çiselemek
+ 10.Eringeç: Tembel, üşenen (kimse)
+ 11.Göğer: Tohumluk küçük soğan, arpacık soğanı
+ 12.Güynümek: Meyveler olmak
+ 13.İnnemek: Bağırmak
+ 14.Kazamak: Hendek
+ 16.Alaf: Alev
+ 17.Kırpıt: El örgüsü ve yünden yapılmış pantolon
+ 18.Kıstırık: Pantolon
+ 19.Künt: Anlayışsız, beceriksiz, elinden iş gelmeyen
+ 20.Lap: Taze incir
+ 21.Meşe: Bilye
+ 22.Oturuk: Gazino, kahvehane
+ 23.Ödek: Korkak
+ 24.Bardacık: Taze incir
+ 25.Çuçka: İnce uzun, acı, yeşil biber
+ 26.Darı: Mısır, mısır tanesi
+ 27.Domat: Domates
+ 28.Yemiş: İncir
+ 29.Çıtır: Kibrit
+ 30.Dibile: Yufkadan simit biçiminde yapılmış tatlı.
+ 31.Güre: Çekinge, korkak, ürkek.
+ 32.Gıcır: Uzun çorap lastiği
+ 33.Yalım: Taş
+ 34.Acır: Buruşuk kabuklu, üzeri ince çizgili, baz renkli bir çeşit uzun hıyar
+ 35.Aba: Abla, büyük kız kardeş
+ 36.Bele: Yüzü beyaz koyun
+ 37.Amallı: Baş belası, usanç verici, yaramaz, inatçı
+
+Manisa
+ 1.Ödek: Korkak
+ 2.Össen: Sanırım, belki
+ 3.Ebermek: Getirmek
+ 4.Boğmak: Düğüm, boğum
+ 5.Ağzı açık: Avanak, şaşkın, aptal
+ 6.Cibar: Bebeklikten çıkmış çocuk
+ 7.Pavkırmak: Ulumak, ürümek (kurt, çakal, tilki, köpek vb. hayvanlar)
+ 8.Şibit: Kalın sac ekmeği, bazlama
+ 9.Bibi: Hala
+ 10.Ters: Gübre
+ 11.Acar: İyi, güzel
+ 12.Alaflamak: Alevlemek, yakmak, tutuşturmak, ateşe vermek
+ 13.Ayakman: Merdiven, merdiven basamağı
+ 14.Bulak: Kaynak
+ 15.Alaf: Alev
+ 16.Çevirgel: Tesbih çekilerek okunan dua
+ 17.Çıvdırmak. Delirmek
+ 18.Hırçık: Eski, lime lime, yamalı (eşya için)
+ 19.İşkillenmek: Alınmak, içerlemek
+ 20.Kakaç: Zayıf (insan ve hayvan için)
+ 21.Pişinti: Tarhana hamuru
+ 22.Valih: Çok beğenme
+ 23.Öngücü: Eninde sonunda ne olursa olsun, er geç
+ 24.Önkü: O (nesne)
+ 25.Hindi: Başörtüsü
+ 26.Domat. Domates
+ 27.Andık: Sırtlan
+ 28.Avara: Gevşek
+ 29.Cıba: Bebeklikten çıkmış çocuk
+ 30.Çapıt: Eski bez parçası
+ 31.Çalık: Sıcak veya soğuktan gelişemeyerek cılız kalan ekin
+ 32.Dayı: Güzel, iyi
+ 33.Domalan: Yumurta
+ 34.Ellak: İkiyüzlü, dönek, yalancı
+ 35.Emik: İnsan beyni
+
+Muğla
+ Alama: Avuçla tutulup atılabilecek taş parçası
+ Alaf: Taş, kerpiç, ağaçtan yapılmış hayvan yemliği
+ Ağdırmak: Sürüyü bir yamaca doğru salıvermek
+ Boduç: Yuvarlak, kulpsuz testi
+ Cibi: Kümes hayvanı yavrusu, civciv
+ Çilte: Şilte, minder
+ Çiğin: Omuz
+ Dığan: Yağ tavası
+ Dıkım: Lokma
+ Ellik: Ekin biçmek için parmaklık
+ Eğrel: Sürülecek tarlanın belirli kimselere ayrılan parçası
+ Fıydırmak: Kaldırıp atmak, fırlatmak
+ Gücüle: Hemen, şimdi, yeni
+ Görek: Asma kilit, anahtar
+ Haranı: Tencere
+ Hodul: Kendini beğenmiş, kibirli
+ İnnak: Azıcık
+ İspirte: Kibrit
+ Köşek: Deve yavrusu
+ Kıpçık: Yaramaz, afacan
+ Lüzger: Rüzgar
+ Maar: Çeşme
+ Nacap: Nasıl, ne biçim
+ Oban: Suyun yüksekten dökülmesini sağlayan oluk
+ Oku: Düğün hediyesi
+ Potur: Kıldan dokunan pantolon
+
+Denizli
+ Alaf: Alev
+ Adanat: Ekin demetlerini arabaya yüklemekte kullanılan üç çatallı alet, dirgen, anadut
+ Alacık: Üzeri dal veya hasırla örtülen çoban evi, tarla, bostan, bağ kulübesi, çardak
+ Alaflamak: Alevlemek, yakmak, tutuşturmak, ateşe vermek
+ Avşar: Süvari jandarma
+ Çeke: Ufak, küçük
+ Çimek: Çimenli tepe
+ Firaz: Horoz
+ Al: Hile, tuzak
+ Gastan: Şakacıktan, yalandan, yalancıktan
+ Gezekçi: Sığır çobanı
+ Gezeklik: Sürünün otlamaya gitmeden önce toplandığı yer
+ Göğer: Tohumluk küçük soğan, arpacık soğanı
+ Günlük: Şemsiye
