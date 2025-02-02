@@ -1,0 +1,123 @@
+Kütahya
+ 1.Ağaş: Ağaç, krş. ağeş
+ 2.Alaf: Alev
+ 3.Alaflamak: Kışkırtmak
+ 4.Bakıtmak: Büyü bozdurmak
+ 5.Berkitmek: Sağlamlaştırmak, pekiştirmek, sıkıştırmak, sertleştirmek, katılaştırmak
+ 6.Böyü: İri ve zehirli örümcek
+ 7.Çevirgel: Tesbih çekilerek okunan dua
+ 8.Danmak: Şaşmak
+ 9.Enmek: İnmek (kuşu)
+ 10.Eyi: İyi
+ 11.Kıstır: Pantolon
+ 12.Künt: Anlayışsız, beceriksiz, elinden iş gelmeyen
+ 13.Laylon: Naylon
+ 14.Oturmakçı: Konuk
+ 15.Ödek: Korkak
+ 16.Pelit: Çınar, meşe vb. ağaçların meyvesi
+ 17.Pirçek: Perçem, kakül
+ 18.Püsküvüt: Bisküvi
+ 19.Yazağzı: İlkbahar
+ 20.Össen: Sanırım, belki
+ 21.Ebermek: Getirmek
+ 22.Yağlık: Mendil, çevre
+ 23.Pavkırmak: Çok öfkelenmek
+ 24.Gali: Artık, bundan böyle
+ 25.Bibi: Hindi
+ 26.Culuk: Hindi
+ 27.Ters: Gübre
+ 28.Acar: Kuvvetli, gürbüz, dinç, iriyarı
+ 29.Bitik: Yapışık, dolaşık, ekli, tüm, donmuş, katılaşmış
+ 30.Aba: Hanım, hanımefendi
+ 31.Dada: Bebek, bir aylıktan iki yaşına kadar olan çocuk
+ 32.Erkeç: Üç ya da dört yaşlarında olan enenmiş erkek keçi
+ 33.Iscak: Sıcak
+ 34.Ünnemek: Seslenmek, çağırmak
+ 35.Irmazan: Ramazan
+
+Afyon
+ Al: Hile, tuzak.
+ Alma: Elma.
+ Babıç: Ayakkabı, papuç.
+ Badılcan: Patlıcan / Domates.
+ Baya: Belki / Hakikaten, gerçekten.
+ Bakan: Bakayım, göreyim.
+ Batırmak: Kuru meyveyi ıslatmak, yıkamak. / Kire bulamak.
+ Belek: Hediye / Düğün hediyesi.
+ Bicik: Bir kez.
+ Biliş: Tanıdık / Bilindik.
+ Bişi: Kedi / Çörek, tatlı ekmek, saç ekmeği.
+ Buy: Vay, şaşma bildiren ünlem kelimesi.
+ Bülüç: Piliç / Civciv.
+ Cırcır: Ağustos böceği.
+ Çimmek: Yıkanmak.
+ Dalap: At isteyen kısrak, erkek isteyen dişi eşek ya da hayvan.
+ Dığan: Yağ tavası.
+ Dirgit: Çerez olarak yenen, haşlanmış mısır, buğday, nohut vb. tahıl.
+ Duluk: Şakak / Avurt / Kulak arkası / Çene üstü.
+ Edik: Köylü çizmesi / Terlik / Çocuk ayakkabısı / Yünden örme kadın terliği.
+ Engi: İşte, yanındaki, çevresindeki.
+ Emme: Ama, fakat.
+ Ergen: Kızılcık.
+ Evmek: Acele etmek, acele ettirmek.
+ Gak: Su aşındırmasıyla oluşan deliğe dolan su birikintisi.
+ Gıran: Ölümcül salgın hastalık / Dağ sırtı.
+ Golan: Hayvanın semerini ya da eyerini bağlamak için göğsünden aşırılarak sıkılan yassı
+kemer.
+ Hindi: Şimdi.
+ Irk: Şans, uğur.
+ Irlanmak: Sallanmak.
+ İlistir: Süzgeç, kevgir.
+ Kak: Meyve kurusu / Un, yağ, yumurta ile yapılan yiyecek.
+ Keri: Sonra, geri.
+ Keşir: Havuç.
+ Köfün: Büyük sepet, küfe.
+ Meh: Al, buyur.
+ Oku: Küçük armağanlarla yapılan düğün çağrısı.
+ Pavkırmak: Ulumak, ürümek.
+ Senek: Çam ağacından oyularak yapılan su kabı, tahta testi / Dört çatallı demir dirgen.
+ Sini: Nişanda kız evine götürülen şeker tepsisi.
+ Sındı: Makas.
+ Sokaç: Arı iğnesi.
+ Soku: Tahıl dövmeye yarayan büyük taş dibek.
+ Sökel: Güçsüz, düşkün.
+ Tuluk: Pekmez, peynir, yağ vb. şeyler koymaya yarayan ya da yayık olarak kullanılan deri,
+tulum.
+ Yoz: Kısır ve erkek davardan oluşan sürü.
+ 47.Zılla: Kesinlikle, hiçbir zaman
+
+Uşak
+ Aa: Hayır, yok, olmaz.
+ Aba: Abla.
+ Aha: İşte, orada, hemen şurada, bu.
+ Alaf: Ateş.
+ Alaz: Soğuk veya don nedeniyle sebze ve meyvelerin donması.
+ Ayan: Köy veya mahalle muhtarı.
+ Böcü: Kurt / Böcek, akrep, çıyan, örümcek vs.
+ Cice: Abla.
+ Cıbıl: Yoksul.
+ Dam: Cezaevi / Ahır.
+ Deze: Teyze.
+ Gali: Artık.
+ Germe: Bir yeri bölmek, sınırı belli etmek için yapılan tahta perde.
+ Gön: Hayvan derisi.
+ İleşper: Rençper, çiftçi.
+ İspirte: Kibrit.
+ Kabırcak: Tabut.
+ Kaykı: Sert, sağlam.
+ Keri: Sonra.
+ Nacap: Nasıl?
+ Naha: Daha kötü, beter.
+ Nerdek: Domates suyu, salça.
+ Obal: Vicdan sızlatan iş, davranış.
+ Oku: Davetiye.
+ Peşkir: Havlu.
+ Sındı: Makas.
+ Sinlenmek: Gizlenmek, saklanmak.
+ Tara: Odun keskisi, satır.
+ Tırkaz: Kilit.
+ Üleşmek: Paylaşmak.
+ Yalım: Sanırım.
+ Yılık: Eğri, yamuk. / Sözünde durmayan.
+ Yozuk: Haylaz, tembel.
+ Zarplı: Zorlu, güçlü.
